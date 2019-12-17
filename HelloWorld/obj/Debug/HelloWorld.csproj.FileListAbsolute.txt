@@ -1,0 +1,14 @@
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Calc.resources
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form2.resources
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form3.resources
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form4.resources
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Taquin.resources
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Demetrax\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
