@@ -1,0 +1,28 @@
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\bin\Debug\Cours.exe.config
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\bin\Debug\Cours.exe
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\bin\Debug\Cours.pdb
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.csprojAssemblyReference.cache
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.DialogForm.resources
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.MainForm.resources
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.Properties.Resources.resources
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.csproj.GenerateResource.cache
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.exe
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.pdb
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.Level2Form.resources
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.MdiForm.resources
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.MdiLevel2Form.resources
+D:\_Projets Formation\Cours CS - 1 - Initiation\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.PanelForm.resources
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\bin\Debug\Cours.exe.config
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\bin\Debug\Cours.exe
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\bin\Debug\Cours.pdb
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.csprojAssemblyReference.cache
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.DialogForm.resources
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.Level2Form.resources
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.MainForm.resources
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.MdiForm.resources
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.MdiLevel2Form.resources
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.PanelForm.resources
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.Properties.Resources.resources
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.csproj.GenerateResource.cache
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.exe
+D:\IPI\Cours\Master1\CSharp\Initiation CS - 07 - Windows form (1)\Initiation CS - 07 - Windows form\Code\Cours\Cours\obj\Debug\Cours.pdb
